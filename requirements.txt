@@ -1,0 +1,6 @@
+numpy==1.20.2
+pylibconfig2==0.2.5
+pyparsing==2.4.7
+tables==3.6.1
+pandas==1.2.4
+scipy==1.6.3

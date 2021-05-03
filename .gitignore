@@ -1,0 +1,4 @@
+figs/
+venv
+.ipynb_checkpoints/
+*.o

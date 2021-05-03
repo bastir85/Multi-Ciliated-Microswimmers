@@ -1,0 +1,14 @@
+Source code and simulation data for the paper 'Multi-Ciliated Microswimmers – Metachronal
+Coordination and Helical Swimming' by Sebastian Rode, Jens Elgeti, and Gerhard
+Gompper
+
+src/ - C++ source files for the MPC simulation
+create.py - Python script to generate raw data
+process.py - Python script for data pre-processing
+requirements.txt  - Python dependencies
+
+
+The paper figures can be reproduced with the attached jupyter notebooks.
+
+Full simulation can be run via the cilia executable and the corresponding config file:
+./src/cilia sim.cfg
